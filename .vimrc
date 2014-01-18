@@ -3,8 +3,8 @@ syntax on
 colorscheme 256-jungle
 set backspace=2
 set expandtab
-set tabstop=8
-set shiftwidth=8
+set tabstop=4
+set shiftwidth=4
 
 execute pathogen#infect()
 let g:syntastic_c_checkers=['gcc']
